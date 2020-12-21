@@ -30,7 +30,7 @@ try :
 
     time.sleep(1)
     #input recipient
-    driver.find_element_by_id('inputTo').send_keys('victorerik@yandex.ru')
+    driver.find_element_by_id('inputTo').send_keys('chepurovova@yandex.ru.')
     time.sleep(1)
 
     #input subject
